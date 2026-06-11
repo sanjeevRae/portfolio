@@ -32,7 +32,7 @@ class CareerEvent {
       title: 'Flutter Developer Intern',
       description:
           'Developed cross-platform mobile applications using Flutter and Dart.',
-      icon: Icons.code,
+      icon: Icons.android,
       company: 'PopupBits',
       location: 'Kathmandu, Nepal',
     ),
@@ -41,7 +41,7 @@ class CareerEvent {
       title: 'Flutter Internship Traineer',
       description:
           'Expanded skills in mobile development fundamentals and best practices.',
-      icon: Icons.code,
+      icon: Icons.android,
       company: 'PopupBits',
       location: 'Kathmandu, Nepal',
     ),
@@ -58,8 +58,10 @@ class CareerEvent {
       year: 2025,
       title: 'Full Stack Developer',
       description:
-          'Specialized in native Android development and working with Kotlin and Java.',
-      icon: Icons.android,
+          'Specialized in CMS development and working with Next.js, Node.js.
+
+',
+      icon: Icons.code,
       company: 'Awddel Holdings',
       location: 'Kathmandu, Nepal',
     ),
