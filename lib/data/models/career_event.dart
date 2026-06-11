@@ -56,7 +56,7 @@ class CareerEvent {
     ),
     const CareerEvent(
       year: 2025,
-      title: 'Android Developer',
+      title: 'Full Stack Developer',
       description:
           'Specialized in native Android development and working with Kotlin and Java.',
       icon: Icons.android,
